@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec09769d-1de1-4260-b295-947a24ccb9de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectId" id="1djD3P4wQkMcLuEp1z7R0leLx5J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542704264477" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.uppg9">
+    <configuration name="Uppgift4" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uppgift4" />
+      <module name="Laboration 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uppg5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lektion2.uppg5" />
+      <module name="Laboration 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lektion2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uppg6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lektion2.uppg6" />
+      <module name="Laboration 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lektion2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uppg7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lektion2.uppg7" />
+      <module name="Laboration 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lektion2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uppg8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lektion2.uppg8" />
+      <module name="Laboration 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lektion2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uppg9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lektion2.uppg9" />
+      <module name="Laboration 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lektion2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Uppgift4" />
+      <item itemvalue="Application.uppg5" />
+      <item itemvalue="Application.uppg6" />
+      <item itemvalue="Application.uppg7" />
+      <item itemvalue="Application.uppg8" />
+      <item itemvalue="Application.uppg9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.uppg9" />
+        <item itemvalue="Application.uppg8" />
+        <item itemvalue="Application.uppg7" />
+        <item itemvalue="Application.uppg6" />
+        <item itemvalue="Application.uppg5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec09769d-1de1-4260-b295-947a24ccb9de" name="Default Changelist" comment="" />
+      <created>1536740348952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536740348952</updated>
+      <workItem from="1536740373392" duration="8598000" />
+      <workItem from="1536858035267" duration="32000" />
+      <workItem from="1536916117952" duration="3805000" />
+      <workItem from="1537008413285" duration="1117000" />
+      <workItem from="1537258532397" duration="6643000" />
+      <workItem from="1537344955698" duration="73000" />
+      <workItem from="1537345193028" duration="2302000" />
+      <workItem from="1537376735832" duration="682000" />
+      <workItem from="1537433046057" duration="611000" />
+      <workItem from="1542702590053" duration="629000" />
+      <workItem from="1558692318019" duration="3000" />
+      <workItem from="1592929410430" duration="527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leka.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lektion2/uppg5.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
